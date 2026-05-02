@@ -1,0 +1,6 @@
+user_id,content_id,watch_duration_mins,device_type,timestamp,region
+U001,C101,45,SmartTV,2023-10-25 18:00:00,Southeast Asia
+U002,C101,15,Mobile,2023-10-25 18:15:00,Southeast Asia
+U003,C202,120,Laptop,2023-10-25 19:00:00,South Asia
+U004,C101,60,SmartTV,2023-10-25 20:00:00,Southeast Asia
+U005,C303,10,Mobile,2023-10-25 20:30:00,East Asia
